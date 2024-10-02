@@ -46,7 +46,7 @@ When I'm not coding, I enjoy:
 
 <h2 align="left">Resume</h2>
 
-<img align="left" width="400" height="400" src="https://github.com/user-attachments/files/17234178/Resume">
+<a href="https://github.com/user-attachments/files/17237122/Resume.pdf" target="_blank">View my Resume</a>
 
 <br>
 
