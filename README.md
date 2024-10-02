@@ -46,7 +46,7 @@ When I'm not coding, I enjoy:
 
 <h2 align="left">Resume</h2>
 
-<img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/878085ab-fe68-46a6-ac24-25c1490b1fbc">
+<img align="left" width="700" height="700" src="https://github.com/user-attachments/assets/878085ab-fe68-46a6-ac24-25c1490b1fbc">
 
 <br>
 
