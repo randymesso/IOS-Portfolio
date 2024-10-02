@@ -7,6 +7,8 @@
 
 <h2 align="left">About Me</h2>
 
+<br>
+
 <p align="left">
   Welcome to my GitHub profile! I'm a passionate iOS developer with a keen interest in creating intuitive and efficient mobile applications. With a strong foundation in Swift and UIKit, I strive to write clean, maintainable code that delivers exceptional user experiences.
   
