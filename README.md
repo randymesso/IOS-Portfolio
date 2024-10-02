@@ -22,6 +22,8 @@ I enjoy
 <h2 align="left">Apps</h2>
 
 <h2 align="left">Resume</h2>
-<img align="left" width="400" height="400" src="https://github.com/user-attachments/files/17234178/Resume.pdf">
+
+<img align="left" width="400" height="400" src="https://github.com/user-attachments/files/17234178/Resume">
 
 <h2 align="left">Contact Me</h2>
+
