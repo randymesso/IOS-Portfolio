@@ -15,9 +15,27 @@
   When I'm not coding, you can find me exploring the latest Apple technologies, contributing to open-source projects, or sharing my knowledge with the developer community through blog posts and meetups.
 </p>
 
+<br>
 
-### Skills   ###Hobbies
-I enjoy 
+## Skills & Hobbies
+
+<details>
+<summary>📱 Skills</summary>
+
+Proficient in Swift with a strong foundation in iOS app development using UIKit and some SwiftUI. Experienced in working with iOS components including Storyboard, database services like Core Data, UserDefaults, and Firebase. Skilled in using Xcode for development and debugging, and familiar with version control using services like Git and GitHub. Familiar with XCTest framework for writing and running unit tests, and experienced in implementing test-driven development (TDD) practices.
+
+</details>
+
+<details>
+<summary>🎨 Hobbies</summary>
+
+When I'm not coding, I enjoy:
+- Exploring new hiking trails and capturing nature photography
+- Experimenting with new recipes in the kitchen, especially fusion cuisines
+- Participating in local tech meetups and hackathons
+- Reading science fiction novels and discussing them in my book club
+
+</details>
 
 <h2 align="left">Apps</h2>
 
