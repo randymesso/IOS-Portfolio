@@ -1,6 +1,6 @@
 # IOS-Portfolio
 
-## Randy Messo
+<h2>Randy Messo</h2> 
 ### I internded and now have worked as a Software Engineer for the past year and a half now. During that time I have taken an interest and dove deep into the world of IOS development. After working on 
 
 <img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/e73533d5-f895-43b5-a395-180c7d0cd227">
@@ -44,6 +44,8 @@ When I'm not coding, I enjoy:
 <h2 align="left">Resume</h2>
 
 <img align="left" width="400" height="400" src="https://github.com/user-attachments/files/17234178/Resume">
+
+<br>
 
 <h2 align="left">Contact Me</h2>
 
