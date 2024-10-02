@@ -1,9 +1,8 @@
 # IOS-Portfolio
 
 ## Randy Messo
-### 
+### Hello this is my 
 
-## About ME
 <img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/e73533d5-f895-43b5-a395-180c7d0cd227">
 
 <h2 align="right">About Me</h2>
@@ -15,7 +14,7 @@
   
   When I'm not coding, you can find me exploring the latest Apple technologies, contributing to open-source projects, or sharing my knowledge with the developer community through blog posts and meetups.
 </p>
-![Headshot](https://github.com/user-attachments/assets/e73533d5-f895-43b5-a395-180c7d0cd227)
+
 
 ### Skills   ###Hobbies
 I enjoy 
