@@ -1,3 +1,3 @@
-# IOS-Portfolio
+IOS-Portfolio
 
 ##### Randy Messo
