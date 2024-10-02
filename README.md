@@ -44,7 +44,7 @@ When I'm not coding, I enjoy:
 
 ## Resume
 
-<img width="700" height="700" src="https://github.com/user-attachments/assets/878085ab-fe68-46a6-ac24-25c1490b1fbc">
+<img width="800" height="800" src="https://github.com/user-attachments/assets/878085ab-fe68-46a6-ac24-25c1490b1fbc">
 
 <br clear="all">
 
