@@ -1,9 +1,9 @@
-# IOS-Portfolio
+# IOS Portfolio
 
 ## Randy Messo
 
 <p align="left">
-I interned and now have worked as a Software Engineer for the past year and a half. During that time I have taken an interest and dove deep into the world of iOS development. After working on [complete this sentence with your experience]
+I worked as an intern and now have worked as a Software Engineer for the past year and a half. During this period, i've worked as a quality assurance engineer. I may have been on the testing side of things but my love for development never ceased. At that point I took an interest and dove deep into the world of iOS development. The process of learning and working on new projects has drove my passion to get better.
 </p>
 
 ## About Me
@@ -11,11 +11,7 @@ I interned and now have worked as a Software Engineer for the past year and a ha
 <img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/e73533d5-f895-43b5-a395-180c7d0cd227">
 
 <p align="left">
-Welcome to my GitHub profile! I'm a passionate iOS developer with a keen interest in creating intuitive and efficient mobile applications. With a strong foundation in Swift and UIKit, I strive to write clean, maintainable code that delivers exceptional user experiences.
-
-My journey in iOS development has led me to work on various projects, from simple utility apps to complex, data-driven applications. I'm always eager to learn new technologies and best practices in the ever-evolving world of iOS development.
-
-When I'm not coding, you can find me exploring the latest Apple technologies, contributing to open-source projects, or sharing my knowledge with the developer community through blog posts and meetups.
+Welcome to my GitHub profile! My name is Randy. I graduated from The University of Houston with a computer science degree 
 </p>
 
 <br clear="all">
@@ -32,10 +28,10 @@ Proficient in Swift with a strong foundation in iOS app development using UIKit 
 <summary>🎨 Hobbies</summary>
 
 When I'm not coding, I enjoy:
-- Exploring new hiking trails and capturing nature photography
-- Experimenting with new recipes in the kitchen, especially fusion cuisines
-- Participating in local tech meetups and hackathons
-- Reading science fiction novels and discussing them in my book club
+- Playing/creating video games
+- Being outdoors. Getting to see new places is always an experience!
+- Playing sports with friends 
+- Learning new skills, piano has been the recent topic of disscussion
 </details>
 
 ## Apps
