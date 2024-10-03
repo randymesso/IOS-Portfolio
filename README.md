@@ -12,6 +12,17 @@ I worked as an intern and now have worked as a Software Engineer for the past ye
 
 <p align="left">
 Welcome to my GitHub profile! My name is Randy. I graduated from The University of Houston with a computer science degree 
+
+
+
+
+
+
+
+
+
+
+  
 </p>
 
 <br clear="all">
@@ -63,5 +74,4 @@ When I'm not coding, I enjoy:
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 
