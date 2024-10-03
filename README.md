@@ -11,18 +11,8 @@ I worked as an intern and now have worked as a Software Engineer for the past ye
 <img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/e73533d5-f895-43b5-a395-180c7d0cd227">
 
 <p align="left">
-Welcome to my GitHub profile! My name is Randy. I graduated from The University of Houston with a computer science degree 
+Welcome to my GitHub profile! My name is Randy. I graduated from The University of Houston with a computer science degree. 
 
-
-
-
-
-
-
-
-
-
-  
 </p>
 
 <br clear="all">
