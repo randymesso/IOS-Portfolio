@@ -48,8 +48,6 @@ When I'm not coding, I enjoy:
 
 <br clear="all">
 
-## Contact Me
-
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
