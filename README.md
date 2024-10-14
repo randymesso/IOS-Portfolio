@@ -58,7 +58,7 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/33ad5f35-35e3-48a5-ac7b-0080519c6fc" width="250"/><br>
+      <img src="https://github.com/user-attachments/assets/b447187e-0aba-4d96-8fa5-eaba4ccbe24e" width="250"/><br>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/20abfd11-54ff-43cc-b9aa-77a855fb1111" width="250"/><br>
