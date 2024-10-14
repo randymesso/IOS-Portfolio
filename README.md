@@ -50,11 +50,24 @@ When I'm not coding, I enjoy:
       <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" width="250"/><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/33ad5f35-35e3-48a5-ac7b-0080519c6fc7" width="250"/><br>
+      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" width="250"/><br>
     </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/33ad5f35-35e3-48a5-ac7b-0080519c6fc" width="250"/><br>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/20abfd11-54ff-43cc-b9aa-77a855fb1111" width="250"/><br>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/88760f31-0b76-4e17-9144-03620d863cac" width="250"/><br>
+    </td>
+  </tr>
+</table>
 
 
 ## Resume
