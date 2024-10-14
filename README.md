@@ -44,13 +44,13 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e9fbcbc6-3bb2-4efe-bdee-554b9e87119d" width="250"/><br>
+      <img src="https://github.com/user-attachments/assets/e9fbcbc6-3bb2-4efe-bdee-554b9e87119d" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" width="250"/><br>
+      <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" width="250"/><br>
+      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" /><br>
     </td>
   </tr>
 </table>
