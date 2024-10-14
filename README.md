@@ -95,9 +95,6 @@ When I'm not coding, I enjoy:
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/84322ba8-cb34-4d39-b9c9-d30738695ba2" /><br>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/88760f31-0b76-4e17-9144-03620d863cac" /><br>
-    </td>
   </tr>
 </table>
 
