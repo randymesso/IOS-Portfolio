@@ -76,13 +76,13 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e9fbcbc6-3bb2-4efe-bdee-554b9e87119d" /><br>
+      <img src="https://github.com/user-attachments/assets/60311421-78af-48c7-bb50-bd93498b12f7" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" /><br>
+      <img src="https://github.com/user-attachments/assets/cb5d4ea0-4020-425a-a7bc-e8fac6eea447" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" /><br>
+      <img src="https://github.com/user-attachments/assets/3985d4a6-7d5a-44ef-a8a8-4bbdc0f62b49" /><br>
     </td>
   </tr>
 </table>
@@ -90,10 +90,10 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/b447187e-0aba-4d96-8fa5-eaba4ccbe24e" /><br>
+      <img src="https://github.com/user-attachments/assets/fe227eb7-f405-4808-8f2f-f2256945d619" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/20abfd11-54ff-43cc-b9aa-77a855fb1111" /><br>
+      <img src="https://github.com/user-attachments/assets/84322ba8-cb34-4d39-b9c9-d30738695ba2" /><br>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/88760f31-0b76-4e17-9144-03620d863cac" /><br>
