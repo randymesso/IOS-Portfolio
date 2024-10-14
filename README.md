@@ -38,7 +38,24 @@ When I'm not coding, I enjoy:
 
 ## Apps
 
-[Your app content here]
+<h2 align="center">MeloMixer</h2>
+<h3 align="left">App Blurb</h3>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/e9fbcbc6-3bb2-4efe-bdee-554b9e87119d" width="250"/><br>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" width="250"/><br>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/33ad5f35-35e3-48a5-ac7b-0080519c6fc7" width="250"/><br>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Resume
 
