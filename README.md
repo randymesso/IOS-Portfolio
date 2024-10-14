@@ -23,7 +23,7 @@ Welcome to my GitHub profile! My name is Randy. I graduated from The University 
 <details>
 <summary>📱 Skills</summary>
 
-Proficient in Swift with a strong foundation in iOS app development using UIKit and some SwiftUI. Experienced in working with iOS components including Storyboard, database services like Core Data, UserDefaults, and Firebase. Skilled in using Xcode for development and debugging, and familiar with version control using services like Git and GitHub. Familiar with XCTest framework for writing and running unit tests, and experienced in implementing test-driven development (TDD) practices.
+Proficient in Swift with a strong foundation in iOS app development using UIKit and some SwiftUI. Experienced in working with iOS components including Storyboard, database services like Core Data, UserDefaults, and Firebase. Skilled in using Xcode for development and debugging, and familiar with version control using services like Git and GitHub. Used the XCTest framework for writing and running unit tests that generate a high code coverage. 
 </details>
 
 <details>
