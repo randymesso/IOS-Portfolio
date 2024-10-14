@@ -38,8 +38,8 @@ When I'm not coding, I enjoy:
 
 ## Apps
 
-<h2 align="center">MeloMixer</h2>
-<h3 align="left">App Blurb</h3>
+<h2 align="center">Melo Mixer *On the App Store*</h2>
+<h3 align="left">Melo Mixer, released to the App Store in October 2024, is a dynamic voice recording app that empowers users to create their own music with ease. From signing up and creating personalized profiles to importing song files, the app offers a seamless experience for recording, storing, and editing audio. Key features include live updates during recording, instant playback, and a persistent music library where users can search, rename, and modify their recordings. The Edit Recording tab introduces a visual waveform, allowing users to fine-tune their recordings with precision, making Melo Mixer the ultimate tool for budding musicians and audio creators.</h3>
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ When I'm not coding, I enjoy:
 
 
 <h2 align="center">Netflix Clone</h2>
-<h3 align="left">App Blurb</h3>
+<h3 align="left">This Netflix-style app gives users a comprehensive view of various TV shows and movies, neatly organized into categories like Trending, Popular, Top Rated, and Upcoming releases. Each title offers a YouTube trailer and a brief synopsis for easy browsing. Users can download their favorite titles for later viewing, which are stored in a persistent downloads tab for future access. Additionally, the app provides a powerful search feature, allowing users to easily find specific movies or shows they want to explore further.</h3>
 
 <table>
   <tr>
@@ -100,7 +100,7 @@ When I'm not coding, I enjoy:
 
 
 <h2 align="center">Github Panel</h2>
-<h3 align="left">App Blurb</h3>
+<h3 align="left">This iOS app offers a streamlined, mobile-friendly version of the GitHub web experience. Users can search for GitHub usernames and, upon finding a match, view a list of followers displayed by their avatars and usernames. Each account can be added to a persistent favorites tab for quick access across app launches. By selecting a profile, users can visually explore key GitHub statistics like follower count, following count, and the number of public repositories. Additionally, with the tap of a button, users can jump to the web-based profile for a more in-depth browsing experience.</h3>
 
 <table>
   <tr>
