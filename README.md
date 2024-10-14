@@ -70,7 +70,7 @@ When I'm not coding, I enjoy:
 </table>
 
 
-<h2 align="center">MeloMixer</h2>
+<h2 align="center">Netflix Clone</h2>
 <h3 align="left">App Blurb</h3>
 
 <table>
@@ -102,7 +102,7 @@ When I'm not coding, I enjoy:
 </table>
 
 
-<h2 align="center">MeloMixer</h2>
+<h2 align="center">Github Panel</h2>
 <h3 align="left">App Blurb</h3>
 
 <table>
