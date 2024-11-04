@@ -133,8 +133,7 @@ When I'm not coding, I enjoy:
 
 ## Resume
 
-<img width="800" height="800" src="https://github.com/user-attachments/assets/2c59e508-a941-4a17-a4a3-051bd597df5e">
-
+<img width="800" height="800" src="https://github.com/user-attachments/assets/2a15a2b5-45f1-4c89-b45f-08e3b4dfe153">
 
 <br clear="all">
 
