@@ -8,7 +8,7 @@ I worked as an intern and have now worked as a software engineer for the past ye
 
 ## About Me
 
-<img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/7691b175-651e-49f9-9040-d9c59f3b17dd">
+<img align="left" width="400" height="400" src="https://github.com/user-attachments/assets/ed669965-9993-4be2-9898-b935a7f4c21f">
 
 <p align="left">
 Welcome to my GitHub profile! My name is Randy. I graduated from The University of Houston with a computer science degree. I fell in love with coding during my senior year of high school where I would learn how to create games. I then went on to receive my degree in computer science. In my junior year, I interned in Software Quality Assurance Engineering, where I continued on full-time. As I worked, I began to love the iOS development industry. I went through courses and built projects that were interesting to me to build upon my knowledge of Swift. This portfolio is a collection of some projects I have built during this time. 
