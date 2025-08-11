@@ -39,18 +39,22 @@ When I'm not coding, I enjoy:
 ## Apps
 
 <h2 align="center">Daily Bread: Interactive Study *On the App Store*</h2>
-<h3 align="left">Daily Bread, shpeal...</h3>
+<h3 align="left">Like a lot of people I had trouble connecting with the word in tangible ways. The methods that I needed were hard to find. Over time I found different ways that help me best connect with God and wanted to package it up into one app that other people could use to grow in their faith too. That’s where Daily Bread came from. An app to do just that. Allow users to receive resources daily to pour into their walk with Christ: a Christian gospel song, Bible verse, tip for improving your Bible study, and the ability to learn about a new character in the Bible every single day. 
+
+It also allows you to read different popular translations of the Bible directly and take notes on your favorite passages. Along with the song of the day you will get a full curated list of gospel songs that you can listen to directly in the app, quick fact lessons to deepen your learning about the people that God chose to make up the Bible, and mini games to play that test your knowledge and help bring everything full circle.
+
+This is an app that I’ve been wanting to make for a long time and I hope it helps you in your journey with Christ. Feel free to  share it or leave some reviews that you have for the app as well as some other features that you would like to see in it!  </h3>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/88760f31-0b76-4e17-9144-03620d863cac" /><br>
+      <img src="https://github.com/user-attachments/assets/b9dfb049-177e-4cbd-a1fc-e40731e8ab77" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e9fbcbc6-3bb2-4efe-bdee-554b9e87119d" /><br>
+      <img src="https://github.com/user-attachments/assets/d350e13e-dc5f-45d8-9219-0c78928b11e0" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/8434e234-7014-4a08-9e75-4af612191f5c" /><br>
+      <img src="https://github.com/user-attachments/assets/e2cc9aa6-6e93-4ad1-a0f0-1583b2ffc7d6" /><br>
     </td>
   </tr>
 </table>
@@ -58,13 +62,13 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" /><br>
+      <img src="https://github.com/user-attachments/assets/7075691a-d5f5-4bdd-85b0-e8dab94bd267" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/b447187e-0aba-4d96-8fa5-eaba4ccbe24e" /><br>
+      <img src="https://github.com/user-attachments/assets/78478b23-6c2c-4d7f-96d2-b1a71722f911" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/20abfd11-54ff-43cc-b9aa-77a855fb1111" /><br>
+      <img src="https://github.com/user-attachments/assets/f640f9cb-7d0c-4f81-b3ea-3cbe803654b3" /><br>
     </td>
   </tr>
 </table>
@@ -72,13 +76,13 @@ When I'm not coding, I enjoy:
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/131592ed-88b6-459d-ad32-18614382e6e9" /><br>
+      <img src="https://github.com/user-attachments/assets/695b93be-53af-4cac-b15f-c999ea7e1c45" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/b447187e-0aba-4d96-8fa5-eaba4ccbe24e" /><br>
+      <img src="https://github.com/user-attachments/assets/50b059df-78b3-4e83-baf7-55327cec7dda" /><br>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/20abfd11-54ff-43cc-b9aa-77a855fb1111" /><br>
+      <img src="https://github.com/user-attachments/assets/9f58f4cf-0463-4b6d-8d8f-3ebd12ff637a" /><br>
     </td>
   </tr>
 </table>
