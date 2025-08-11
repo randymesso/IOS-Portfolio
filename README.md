@@ -182,8 +182,7 @@ This is an app that I’ve been wanting to make for a long time and I hope it he
 
 ## Resume
 
-<img width="800" height="800" src="https://github.com/user-attachments/assets/141c82f9-89ea-4724-aae0-73a5371488a0">
-
+<img width="800" height="800" src="https://github.com/user-attachments/assets/96c6e7cb-f08e-46c6-bcf9-4d79ed05682c">
 
 <br clear="all">
 
