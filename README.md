@@ -41,6 +41,7 @@ When I'm not coding, I enjoy:
 <h2 align="center">Daily Bread: Interactive Study *On the App Store*</h2>
 <h3 align="left">Like a lot of people I had trouble connecting with the word in tangible ways. The methods that I needed were hard to find. Over time I found different ways that help me best connect with God and wanted to package it up into one app that other people could use to grow in their faith too. That’s where Daily Bread came from. An app to do just that. Allow users to receive resources daily to pour into their walk with Christ: a Christian gospel song, Bible verse, tip for improving your Bible study, and the ability to learn about a new character in the Bible every single day. 
 
+
 It also allows you to read different popular translations of the Bible directly and take notes on your favorite passages. Along with the song of the day you will get a full curated list of gospel songs that you can listen to directly in the app, quick fact lessons to deepen your learning about the people that God chose to make up the Bible, and mini games to play that test your knowledge and help bring everything full circle.
 
 This is an app that I’ve been wanting to make for a long time and I hope it helps you in your journey with Christ. Feel free to  share it or leave some reviews that you have for the app as well as some other features that you would like to see in it!  </h3>
